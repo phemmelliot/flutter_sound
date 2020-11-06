@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b47341e-eac0-4c86-a5b4-31355370a8bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/flutter_sound/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_sound/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_sound/ios/flutter_sound.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_sound/ios/flutter_sound.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
