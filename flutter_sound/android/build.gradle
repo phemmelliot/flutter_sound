@@ -1,4 +1,4 @@
-ext.flutterFFmpegPackage = 'audio'
+ext.flutterFFmpegPackage = 'full-gpl'
 
 group 'com.dooboolab.fluttersound'
 version '6.4.2+1'
